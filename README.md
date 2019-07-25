@@ -1,1 +1,5 @@
-# ctry
+#include<stdio.h>
+int main()
+{
+}
+  
